@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seminario-POO-Aprofundamento-Em-Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98521d882d8025efce3f58fca4b4a67e3a10fa0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2eabc4410de3ca9c5e3dff09b72d33ee2132f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seminario-POO-Aprofundamento-Em-Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seminario-POO-Aprofundamento-Em-Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
