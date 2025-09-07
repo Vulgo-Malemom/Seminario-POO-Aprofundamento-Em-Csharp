@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {}
+    "C:\\Users\\Isis\\Documents\\Faculdade\\orientacaobj\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {
+    "C:\\Users\\Isis\\Documents\\Faculdade\\orientacaobj\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\Isis\\Documents\\Faculdade\\orientacaobj\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
         "projectName": "Seminario-POO-Aprofundamento-Em-Csharp",
-        "projectPath": "C:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
-        "packagesPath": "C:\\Users\\porta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\obj\\",
+        "projectPath": "C:\\Users\\Isis\\Documents\\Faculdade\\orientacaobj\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
+        "packagesPath": "C:\\Users\\Isis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Isis\\Documents\\Faculdade\\orientacaobj\\Seminario-POO-Aprofundamento-Em-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\porta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Isis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
