@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {}
+    "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\BibliotecaAcervo\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {
+    "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\BibliotecaAcervo\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
+        "projectUniqueName": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\BibliotecaAcervo\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
         "projectName": "Seminario-POO-Aprofundamento-Em-Csharp",
-        "projectPath": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
+        "projectPath": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\BibliotecaAcervo\\Seminario-POO-Aprofundamento-Em-Csharp\\Seminario-POO-Aprofundamento-Em-Csharp.csproj",
         "packagesPath": "C:\\Users\\porta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\Seminario-POO-Aprofundamento-Em-Csharp\\obj\\",
+        "outputPath": "c:\\Users\\porta\\OneDrive\\Documentos\\Faculdade\\(CC53E-CC3-20252) - Programação Orientada a Objetos\\AULAS\\Aula05\\Semario-POO-Csharp_Aprofundamento\\BibliotecaAcervo\\Seminario-POO-Aprofundamento-Em-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

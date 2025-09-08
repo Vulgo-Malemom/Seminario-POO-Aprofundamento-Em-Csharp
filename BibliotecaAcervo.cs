@@ -21,7 +21,7 @@
                 throw new ArgumentException("A data de empréstimo é inválida.", nameof(dataEmprestimo));
             if (dataDevolucao <= dataEmprestimo)
                 throw new ArgumentException("A data de devolução deve ser posterior à data de empréstimo.", nameof(dataDevolucao));
-            if (multa <= 0)
+            if (multa < 0)
                 throw new ArgumentException("A multa não pode ser negativa.", nameof(multa));
 
             IdLivro = idLivro;
